@@ -2,7 +2,7 @@
 
 Прибор для лога CAN отображения его на экран и записи  трафика.
 
-![Screnshot](https://github.com/allexmak1/can_loger/tree/main/image/image.png)
+![Screnshot](https://github.com/allexmak1/can_loger/tree/main/image/image.jpg)
 
 ## Hardware 
  * CPU: STM32F103C6Tx (72 MHz SYSCLK)
@@ -21,7 +21,7 @@
 
 ### Pins
 
-|STM32F401CC  |Description|Info            |STM32F401CC |Description |Info           |
+|STM32F103C6Tx|Description|Info            |STM32F103C6Tx|Description |Info           |
 |:----------- |:----------|:-------------- |:-----------|:---------- |:--------------|
 |PB12         |           |                |GND         |            |               |
 |PB13         |           |                |GND         |            |               |
