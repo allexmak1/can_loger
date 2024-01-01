@@ -2,7 +2,7 @@
 
 Прибор для лога CAN отображения его на экран и записи  трафика.
 
-![Screnshot](https://github.com/allexmak1/can_loger/tree/main/image/image.jpg)
+![Screnshot](https://github.com/allexmak1/can_loger/tree/main/image/image.png)
 
 ## Hardware 
  * CPU: STM32F103C6Tx (72 MHz SYSCLK)
@@ -46,7 +46,9 @@
 
 ## To-Do
 
- - [ ] Создать интерфейс
+ - [x] Создать интерфейс (DGUS)
+ - [ ] Создать ПО на мк
+
  - [ ] Отобразить заряд акб на экран
  - [ ] Осуществить запись на флеш или SD
  - [ ] Поставить гальваническую развязку на Can
